@@ -6,3 +6,13 @@
   ==================================================================
 -->
 
+## 10/30/2025 - Started Placing Components  
+
+*This is my first hardware project, so I'm starting out basic.*
+![Screenshot 2025-10-30 6.06.18 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9789885ad7a2370b407502b7df591b925d19f5f7/Screenshot%202025-10-30%206.06.18%20PM.png)
+Created an EasyEDA account and created a project. I started out by placing three components, and will continue later.
+The three components I placed so far are:
+1. C46749 (this is the 555 IC)
+2. C32710674 (this is the main 4017 IC. It controls all of the LED’s flashing given an input from the 555)
+3. C492401 (this is the header, or little pins which will be used to power the circuit)  
+
